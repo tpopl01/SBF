@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddcef0f44586fba469e3730f5f1da8ea, type: 3}
+  m_Name: Gun Stats (E-60R)
+  m_EditorClassIdentifier: 
+  weaponSpread: 1
+  range: 30
+  HitCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -2.2398496
+      outSlope: -2.2398496
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.07207537
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DamageCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.098464966
+      value: 1.0092163
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -0.04533723
+      outSlope: -0.04533723
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.113785505
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  maxDamage: 30
+  timeBetweenShots: 3
+  fireAudio: {fileID: 11400000, guid: e1ead109877a2444099f0b874096066e, type: 2}
+  reloadProfile: {fileID: 11400000, guid: 7f5dd46ac01c26348b32ce929c5ae86a, type: 2}
+  twoHanded: 1
+  reloadTime: 1
+  ammoSlug: Bullet_test
+  maxClipAmmo: 2
+  maxAmmo: 10
+  rHAimTarget: {x: 0.18, y: -0.02, z: 0.34}
+  rHAimRot: {x: 6.74, y: -1.98, z: -90}
+  lHAimTarget: {x: -0.09, y: -0.03, z: 0.2}
+  lHAimRot: {x: -10.1, y: 35.04, z: 90}
+  rHTarget: {x: 0.24, y: -0.2, z: 0.17}
+  rHRot: {x: 9.78, y: -21.9, z: -90}
+  lHTarget: {x: -0.08, y: -0.07, z: 0.28}
+  lHRot: {x: -30.44, y: 80.53, z: 90}
+  lHOffhandTarget: {x: -0.07, y: -0.06, z: 0.28}
+  lHOffhandRot: {x: -21.36, y: 0, z: -162.84}
+  aimfpPos: {x: 0, y: 0, z: 0}
+  aimfpRot: {x: 0, y: 0, z: 0}
+  fpPos: {x: 0, y: 0, z: 0}
+  fpRot: {x: 0, y: 0, z: 0}
+  aimSpeed: 5
