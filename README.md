@@ -1,6 +1,7 @@
 # SBF
  Unity Project - Third Person Shooter
 
+CURRENTLY THE REPOSITORY ONLY CONTAINS THE SCRIPTS USED TO MAKE THE PROJECT. For a preview of the project see: https://www.youtube.com/watch?v=12j29ecMckU
 
 Asset References:
 
