@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ce0547dac8f0f44ab1b70d60709472f, type: 3}
+  m_Name: Audio_Music_Background
+  m_EditorClassIdentifier: 
+  general:
+  - {fileID: 8300000, guid: b2c88b34038081a42b4c9987aeeb2151, type: 3}
+  - {fileID: 8300000, guid: 4c424c6ee7b4fb94faf19df974f7e722, type: 3}
+  - {fileID: 8300000, guid: 2e285de4065edee4589a2f9f1a312e3f, type: 3}
+  - {fileID: 8300000, guid: 8bd3e89dec7edaa43a1ac9dfc0adfc5e, type: 3}
+  - {fileID: 8300000, guid: 9b7d0127afc2c15429aabc320dbcdd9c, type: 3}
+  - {fileID: 8300000, guid: ad403fe5cb1141c4db962f01954ad170, type: 3}
+  winning:
+  - {fileID: 8300000, guid: ba2501ab59ee5cd42a36c25a9de77968, type: 3}
+  - {fileID: 8300000, guid: 236f306a65922e2449ae83ff985aca1e, type: 3}
+  losing:
+  - {fileID: 8300000, guid: 7b04197dad13284479615a204bd52d32, type: 3}
+  - {fileID: 8300000, guid: 521dd5f113658f44089772546deefe8b, type: 3}
+  - {fileID: 8300000, guid: f8ef79f4ce2b908438735d073ecd499a, type: 3}
+  defeat:
+  - {fileID: 8300000, guid: c4d7f438479cb4bacbc342346ce897b1, type: 3}
+  victory:
+  - {fileID: 8300000, guid: e94f1bd80b7692249863e6d088bd606a, type: 3}

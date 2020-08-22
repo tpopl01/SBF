@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914dc0c34a063df47ac2b78699689ea9, type: 3}
+  m_Name: Audio_General_Weapon_Fire_Powerful_Short
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: 0d7c62cdbb047984fa3096ab202748b4, type: 3}
+  - {fileID: 8300000, guid: fccc46974bfb74a4498b8793b264e90c, type: 3}
+  - {fileID: 8300000, guid: 2fe490fb8c3d2514c97229ce9392de8a, type: 3}
+  - {fileID: 8300000, guid: e1780ddc00aee23438efb69b897ed7aa, type: 3}
+  loop: 0
+  stopIfPlaying: 1

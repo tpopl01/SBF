@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914dc0c34a063df47ac2b78699689ea9, type: 3}
+  m_Name: Audio_General_Weapon_Fire_Powerful_Slugish
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: 139cdb326f1d2c746818cfc166aa9571, type: 3}
+  - {fileID: 8300000, guid: 2079ae070501bff4a9bc5095fce40edc, type: 3}
+  - {fileID: 8300000, guid: 903fe38128ab7954cbc37a647437f3a9, type: 3}
+  - {fileID: 8300000, guid: e541dc13526805b46b0875b483590b70, type: 3}
+  - {fileID: 8300000, guid: 39b35ced03f2c494bbf81235dcb4e4f4, type: 3}
+  - {fileID: 8300000, guid: 96898ccafd57cdf4cb114b5d7080c8cc, type: 3}
+  - {fileID: 8300000, guid: fa39499abf23c084db2f930c171bc777, type: 3}
+  - {fileID: 8300000, guid: 4bf9655608b6c1c41bc20d72fdab7071, type: 3}
+  - {fileID: 8300000, guid: 81869dd873f7cd04b9a7e932616044d0, type: 3}
+  - {fileID: 8300000, guid: 971ffa2aab93fd645af759aaa57d13f4, type: 3}
+  loop: 0
+  stopIfPlaying: 1
